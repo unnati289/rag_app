@@ -1,0 +1,6 @@
+So in this project-
+I will create a website.
+it will take in user-qurey
+It will use tansformers-pipeline to make the query search wikipedia better
+Then I will get some random sentences from the wiki-api
+I will again use retriever to retrieve a good search
